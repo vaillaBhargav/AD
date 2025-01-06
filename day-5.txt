@@ -1,0 +1,91 @@
+                                   OPERATORS
+
+Expration
+operators
+operand
+operation
+
+for ex== x = a + b
+= and + are called as operators
+x,a,b this are called operands
+
+in avery expration thire will be the operators,operands, operations
+
+operater == is the symble of denoting the operation betwen one or two operand
+
+
+Arithmatic operators== used to make caluculations
+
+                         + ,- , * , / , % , ** , //
+
+ex==a=34
+    b=545
+    print(a*b)
+output==18530
+
+Comparison opperators== it is used to comperarison reslut all time boolean only
+
+                       > , > , >= , <= ,== , != 
+
+ ex== a=34
+      b=355
+      print(a>=b)
+
+out put==False
+
+  ex==a=34
+      b=355
+      print(a!=b)
+out put==True
+
+logical== combine conditional statments
+
+truth tables
+
+AND== TT=T
+      TF=F
+      FT=F
+      FF=F
+OR==  TT=T
+      TF=T
+      FT=T
+      FF=F
+NOT== T=F
+      F=T
+
+ex==x=6
+    y=8
+    x>6 and y<8
+out put==False
+
+
+identity=== is, isnot
+
+memboership===in notin
+
+Bitwise operators
+
+&  AND
+|  OR
+^  XOR
+~ NOT
+<< left shift
+>> right shift
+
+a=5
+b=68
+a&b
+ 
+1==TRUE
+0==FALSE
+
+a=65
+b=79
+a>>b
+out put ==0
+
+5<<2
+out put == 20
+5>>2 
+out put ==1
+
