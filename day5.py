@@ -1,3 +1,4 @@
+# 1st qustion
 n = int(input("Enter a positive integer: "))
 print("Numbers from 1 to", n, "using a for loop:")
 for i in range(1, n + 1):
