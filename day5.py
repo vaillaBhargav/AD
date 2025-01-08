@@ -9,3 +9,11 @@ while i <= n:
     sum_numbers += i
     i += 1
 print("Sum of numbers from 1 to", n, "is:", sum_numbers)
+
+#2nd qustion
+def calculate_square(n):
+    return n ** 2
+n = int(input("Enter a positive integer: "))
+square = calculate_square(n)
+print(f"The square of {n} is: {square}")
+
